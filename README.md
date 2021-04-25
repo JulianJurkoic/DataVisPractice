@@ -1,3 +1,4 @@
 # DataVisPractice
-From Python Crash Course, Project 2
-This is another test
+From Python Crash Course, Project 2 
+
+Using this to test Github and Pycharm
